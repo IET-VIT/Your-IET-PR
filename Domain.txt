@@ -1,5 +1,7 @@
 Dhananjay - I like blockchain and currently learning rust, excited to know all others' interests in tech.
 
+Nandini - The domain I chose is Web Development - I am self-learning from a udemy course about all aspects of web-development right now. My other interests include learning about humane technology, reading, art and designing. 
+
 Ezhill Ragesh -Ragesh is a student by day and a web developer by night, fuelled by a healthy dose of caffeine and a passion for all things tech. But don't let his youth fool you - he's already making waves in the open source community with his keen eye for detail and innovative solutions.In addition to his web development skills, Ragesh is also working on sharpening his SEO skills (watch out, Google!). He's a beginner in this area, but he's not afraid to dive deep and learn all the ins and outs. With his can-do attitude and willingness to take on new challenges, Ragesh is a force to be reckoned with.So if you're looking for a web developer who's not afraid to think outside the box and push the boundaries of what's possible, look no further than Ragesh. He's got the skills, the drive, and the sense of humor to take your project to the next level.
 
 I'm Aayush Ranjan, and I'm passionate about web development and competitive coding.
@@ -7,7 +9,6 @@ Currently learning web development and looking forward to grow, collaborate and 
 
 Saheli- I'm currently learning web development and I have opted for that domain.
 I want to explore in the particular domain more by doing some projects. I want to learn new things as well.
-
 
 Vijay - I am currently in the domain of AI ML and I am learning web development using Django. I am interested in learning in depth about both fields and working on related projects.
 
