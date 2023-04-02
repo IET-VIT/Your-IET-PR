@@ -27,3 +27,4 @@ Hi i am Satyam Das , 21BCE0497
 I have selected the web development domain in IET tech.
 I am currently learning blockchain.
 
+Venkat Balaji S - I have selected the domain AI ML and I am currently working django projects and learning to build DRF APIs and in a concurrent way I am also learning Tensorflow.
